@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">🏏 GearUp Sports Store — Management System</h1>
   <p align="center">
-    <strong>A feature-rich Java Swing desktop application for managing sports retail store operations</strong>
+    <strong>A Java Swing desktop application for managing sports retail store operations</strong>
   </p>
   <p align="center">
     <em>Inventory browsing · Customer management · Shopping cart · Payment processing · Built-in utilities</em>
